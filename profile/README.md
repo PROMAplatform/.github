@@ -1,4 +1,5 @@
 # PROMA
+From Drag To Prompt
 
 ## what?
 생성형 AI 사용에 도움을 주는 프롬프트를 손쉽게 만들어 원하는 답변이 나오도록 도움을 주는 서비스
