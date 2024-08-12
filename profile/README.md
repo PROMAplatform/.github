@@ -88,6 +88,11 @@ Our approach aligns with promoting inclusive education (SDG 4) and reducing ineq
 ## 🕸️ Generative AI
 * AI : Gemini 1.5 pro
 
+## References
+[Gemini Prompt Guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+[GPT Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+[Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
 <!--
 
 **Here are some ideas to get you started:**
