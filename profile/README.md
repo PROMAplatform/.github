@@ -38,14 +38,19 @@ Our approach aligns with promoting inclusive education (SDG 4) and reducing ineq
 <img width="2357" alt="Project_Introduction" src="https://github.com/user-attachments/assets/30eb1ea3-2578-48bf-a4a6-c3f201fc7154">
 
 ## Project Sample
-<img src="https://github.com/user-attachments/assets/dd41e574-109d-4268-8cf9-a9fca43a2c86" width="503">
-<img src="https://github.com/user-attachments/assets/a45f8b4e-883c-4a66-8b09-1bfda87417e4" width="503">
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/dd41e574-109d-4268-8cf9-a9fca43a2c86" width="50%" align="left">
+ <img src="https://github.com/user-attachments/assets/a45f8b4e-883c-4a66-8b09-1bfda87417e4" width="50%" align="right">
+</p>
 
 > Easily learn how to use it through the guidelines. Drag these blocks onto the workspace and check the prompt preview.
+
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/851f0ebd-1bae-42ff-8bf8-32d11e171f6b" width="503">
-<img src="https://github.com/user-attachments/assets/1e89e43c-3c97-48d5-b762-25515fd8f26e" width="503">
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/851f0ebd-1bae-42ff-8bf8-32d11e171f6b" width="50%" align="left">
+ <img src="https://github.com/user-attachments/assets/1e89e43c-3c97-48d5-b762-25515fd8f26e" width="50%" align="right">
+</p>
 
 > Choose the prompt you want and try sending a message with it. Even you can share or scrap prompt in community page.
 <br>
