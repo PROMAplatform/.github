@@ -26,8 +26,11 @@
 </p>
 
 Our platform focuses on effectively delivering knowledge and educational resources through prompt creation and sharing. We’ve introduced an intuitive drag-and-drop system that allows users to easily create prompts without needing to understand complex prompt-writing techniques. This system provides the necessary components in a block format, enabling users to assemble prompts simply by dragging and combining these blocks. This feature makes it easy for beginners to create and share prompts, thereby facilitating knowledge transfer and learning. As a result, it enhances access to advanced technological knowledge and provides more people with the opportunity to increase their understanding of prompts and Large Language Models (LLMs).
+
 Additionally, our platform ensures that people from diverse backgrounds can easily utilize prompts, creating an environment where everyone can access generative AI equally. By doing so, we aim to reduce the gap in information and knowledge. As generative AI technology rapidly evolves, those who struggle to adapt may find it difficult to utilize LLMs (Large Language Models) or LMMs (Large Multimodal Models). Over time, as AI technology continues to advance, these individuals risk falling further behind.
+
 To address this gap, we are committed to increasing accessibility to LLMs through simple prompt creation and usage. Ultimately, our goal is to reduce the knowledge gap between AI experts and non-experts, making AI technology more approachable and user-friendly for the general public.
+
 Our approach aligns with promoting inclusive education (SDG 4) and reducing inequalities (SDG 10). We aim to contribute to a more inclusive and equitable world where everyone can freely share knowledge, enjoy quality education, grow together with advancing technology, and experience reduced knowledge inequalities.
 
 
