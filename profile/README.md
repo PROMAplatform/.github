@@ -4,7 +4,7 @@
 
 ### 👋 Introduce team member
 
-| name                                        |major        |PROMA | Email                |
+| name                                        | major        | role | Email                |
 | -------------------------------------------- | -------------- | ------ | -------------------- |
 | [DONGHYEUN KIM](https://github.com/Kimd0ng) | Computer Science | PM/FE | ck06107@dgu.ac.kr |
 | [MINKI PARK](https://github.com/park20011029) | Computer Science | BE | rokmcp150@dgu.ac.kr |
@@ -43,11 +43,11 @@ Our approach aligns with promoting inclusive education (SDG 4) and reducing ineq
 
 
 ##  ⬇️ Click For Watch the video!
-[![Watch the video](https://img.youtube.com/vi/1h6TGwr0mDs/0.jpg)](https://youtu.be/1h6TGwr0mDs)
+[![Watch the video](https://github.com/user-attachments/assets/443a59bc-97c8-49d6-819d-c02d4fecc622)](https://youtu.be/1h6TGwr0mDs)
 
 ## Our Page 
 
-[Page Link](https://proma-ai.com/)
+[PROMA](https://proma-ai.com/)
 
 
 ## 🎯 Commit Convention
