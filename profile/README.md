@@ -11,7 +11,7 @@
 | [SUNGWOO AHN](https://github.com/aeeengsungwoo) | Computer Science | BE/SERVER | asw4ever@dgu.ac.kr |
 | [TEAWOO EOM](https://github.com/teom142) | Computer Science | AI | xodn9245@dgu.ac.kr |
 | [JUNGSUN LEE](https://github.com/leejs0823) | Computer Science | FE/DESIGN | dlwjdtjs0111@dgu.ac.kr |
-| [KYUJIN HONG](https://github.com/Kyujenius) | Computer Science | FE | hkj020607@gmail.com |
+| [KYUJIN HONG](https://github.com/Kyujenius) | Computer Science | FE | hkj0206@dgu.ac.kr |
 
 
 
