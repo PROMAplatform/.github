@@ -7,11 +7,12 @@
 | name                                        | major        | role | Email                |
 | -------------------------------------------- | -------------- | ------ | -------------------- |
 | [DONGHYEUN KIM](https://github.com/Kimd0ng) | Computer Science | PM/FE | ck06107@dgu.ac.kr |
+| [JUNGSUN LEE](https://github.com/leejs0823) | Computer Science | FE/DESIGN | dlwjdtjs0111@dgu.ac.kr |
+| [KYUJIN HONG](https://github.com/Kyujenius) | Computer Science | FE | hkj0206@dgu.ac.kr |
 | [MINKI PARK](https://github.com/park20011029) | Computer Science | BE | rokmcp150@dgu.ac.kr |
 | [SUNGWOO AHN](https://github.com/aeeengsungwoo) | Computer Science | BE/SERVER | asw4ever@dgu.ac.kr |
 | [TEAWOO EOM](https://github.com/teom142) | Computer Science | AI | xodn9245@dgu.ac.kr |
-| [JUNGSUN LEE](https://github.com/leejs0823) | Computer Science | FE/DESIGN | dlwjdtjs0111@dgu.ac.kr |
-| [KYUJIN HONG](https://github.com/Kyujenius) | Computer Science | FE | hkj0206@dgu.ac.kr |
+
 
 
 
