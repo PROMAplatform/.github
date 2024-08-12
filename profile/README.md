@@ -35,10 +35,10 @@ Our approach aligns with promoting inclusive education (SDG 4) and reducing ineq
 
 
 ## Project Introduction
-<img width="2357" alt="Project_Introduction" src="https://github.com/user-attachments/assets/81b2b083-f472-4dc9-b77c-cc566cd56a97">
+<img width="2357" alt="Project_Introduction" src="https://github.com/user-attachments/assets/30eb1ea3-2578-48bf-a4a6-c3f201fc7154">
 
 ## Architecture
-<img width="2357" alt="아키택쳐" src="https://github.com/user-attachments/assets/443a59bc-97c8-49d6-819d-c02d4fecc622">
+<img width="2357" alt="아키택쳐" src="https://github.com/user-attachments/assets/c186f0f0-4270-4f78-99fb-3ea114383f1b">
 
 
 
