@@ -1,4 +1,4 @@
-![react](https://github.com/user-attachments/assets/a78e129f-3813-4230-ad8c-b6a2e0cb1c7d)
+
  <div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:D5E9AA&text=Earlips&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=70&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" /></div>
 
 
