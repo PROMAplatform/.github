@@ -43,7 +43,7 @@ Our approach aligns with promoting inclusive education (SDG 4) and reducing ineq
 
 
 ##  ⬇️ Click For Watch the video!
-[![Watch the video](https://github.com/user-attachments/assets/443a59bc-97c8-49d6-819d-c02d4fecc622)](https://youtu.be/1h6TGwr0mDs)
+[![Watch the video](https://github.com/user-attachments/assets/81b2b083-f472-4dc9-b77c-cc566cd56a97)](https://youtu.be/1h6TGwr0mDs)
 
 ## Our Page 
 
